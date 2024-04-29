@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teena</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teena-batra&label=Profile%20views&color=0e75b6&style=flat" alt="teena-batra" /> </p>
+
 
 - 🔭 I’m currently working on [Youtube Clone](https://github.com/Teena-batra/Youtube-Clone.git)
 
